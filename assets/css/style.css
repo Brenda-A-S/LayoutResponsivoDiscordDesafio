@@ -145,4 +145,8 @@ footer img {
         width: 330px;
         order: -1;
     }
+    
+    .order{        
+        order: -1;
+    }
 }
