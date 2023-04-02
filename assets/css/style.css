@@ -143,5 +143,6 @@ footer img {
 
     .content-txt {
         width: 330px;
+        order: -1;
     }
 }
