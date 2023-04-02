@@ -14,7 +14,7 @@ O protótipo também pode ser acessado [clicando aqui](https://www.figma.com/fil
  # :open_file_folder: O resultado
  O site foi entregue na plataforma da DIO.
  
-![resultado](https://user-images.githubusercontent.com/69852246/229331396-1782c233-4728-4a3a-9604-6f138f7238e3.png)
+ ![resultado](https://user-images.githubusercontent.com/69852246/229369084-7a620b72-7238-4eb5-b83a-866851e0b933.png)
 
 # :link: Links úteis
 * [Plataforma da DIO](https://www.dio.me/)
